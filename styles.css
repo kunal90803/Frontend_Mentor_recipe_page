@@ -9,6 +9,7 @@ html {
     padding: 0 0 2rem 0; /* Add bottom padding only */
     background: hsl(30, 54%, 90%);
     height: 100%;
+    color: hsl(30, 10%, 34%);
 }
 
   
@@ -62,6 +63,7 @@ img{
 }
 .heading{
     font-size: clamp(2.25rem, 5vw, 2.5rem);
+    color:hsl(24, 5%, 18%) ;
     
 }
 .prep-time{
